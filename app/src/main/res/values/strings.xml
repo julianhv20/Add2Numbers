@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Add2Numbers</string>
+    <string name="add_two_numbers">Add Two Numbers</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="add">ADD</string>
+    <string name="reset">Reset</string>
+</resources>
