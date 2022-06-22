@@ -1,11 +1,10 @@
-package com.julianhv20.add2numbers.ui
+package com.julianhv20.add2numbers.ui.main
 
 import android.view.View
 import android.widget.Button
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainViewModel: ViewModel() {
 

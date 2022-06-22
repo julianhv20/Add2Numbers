@@ -1,9 +1,8 @@
-package com.julianhv20.add2numbers.ui
+package com.julianhv20.add2numbers.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.widget.Button
 import androidx.lifecycle.ViewModelProvider
 import com.julianhv20.add2numbers.databinding.ActivityMainBinding
 import kotlinx.android.synthetic.main.activity_main.*
